@@ -32,3 +32,23 @@
 ### Summary
 
 Novice frontend developer with special care on the backend. Passionate for learning new technologies and methodologies
+
+### Skills
+
+- Coding:
+
+  - HTML
+  - CSS/CSS3
+  - SASS/SCSS
+  - JavaScript
+
+- Tools and Technologies
+
+  - Git
+  - Figma
+  - Npm
+  - VS code
+
+- Languages
+  - Russian (native)
+  - English (Pre-Intermediate)
