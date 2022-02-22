@@ -23,3 +23,8 @@
 
 - JS / FRONT-END [RS School](https://rs.school/js/) (in progress)
 - Responsive Web Design [FreeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/) (in progress)
+
+### Passions
+
+- Choose the best code editor
+- Eat healthy food and go in for sport
