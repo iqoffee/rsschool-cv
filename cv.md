@@ -28,3 +28,7 @@
 
 - Choose the best code editor
 - Eat healthy food and go in for sport
+
+### Summary
+
+Novice frontend developer with special care on the backend. Passionate for learning new technologies and methodologies
