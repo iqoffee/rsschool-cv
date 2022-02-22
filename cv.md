@@ -52,3 +52,5 @@ Novice frontend developer with special care on the backend. Passionate for learn
 - Languages
   - Russian (native)
   - English (Pre-Intermediate)
+
+[RS School](https://iqoffee.github.io/rsschool-cv/cv)
