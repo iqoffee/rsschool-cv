@@ -22,7 +22,7 @@
 ### Education
 
 - JS / FRONT-END [RS School](https://rs.school/js/) (in progress)
-- Responsive Web Design [FreeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/) (in progress)
+- JavaScript + Vue [Udemy](https://www.udemy.com/course/modern-javascript-from-beginning/) (in progress)
 
 ### Passions
 
